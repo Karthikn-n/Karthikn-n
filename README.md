@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikn-n" alt="karthikn-n" /></a> </p>
 
-- 🌱 I’m currently learning **Java, String, Docker, Kubernates**
+- 🌱 I’m currently learning **Java, Spring, Docker, Kubernates**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karthikn-n](https://github.com/Karthikn-n)
 
