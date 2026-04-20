@@ -1,26 +1,108 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
-<h3 align="center">A passionate Mobile application developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Karthikeyan;Flutter+Developer+%F0%9F%93%B1;Mobile+App+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikn-n&label=Profile%20views&color=0e75b6&style=flat" alt="karthikn-n" /> </p>
+<h3 align="center">🚀 Passionate Flutter Developer | 3 Years of Experience | India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikn-n" alt="karthikn-n" /></a> </p>
-
-- 🌱 I’m currently working in **Flutter**
-
-- 📫 How to reach me **karthikn11092001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karthikeyan-n-b5b3a0216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan-n-b5b3a0216" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21712835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21712835" height="30" width="40" /></a>
-<a href="https://instagram.com/karthikn_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikn_18" height="30" width="40" /></a>
-<a href="https://medium.com/@karthikn-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karthikn-n" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthikn12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthikn12" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikn-n&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Available-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikn-n&show_icons=true&locale=en" alt="karthikn-n" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikn-n&" alt="karthikn-n" /></p>
+- 🔭 Currently working as a **Flutter Developer**
+- 🌱 Experienced in building **cross-platform iOS & Android apps** deployed on Play Store & App Store
+- 🛠️ Skilled in **BLoC, Provider, GetX, Riverpod, Stacked** state management
+- 🔗 Integrating **Firebase, Supabase, MongoDB, REST APIs** in production apps
+- 📫 Reach me at **karthikn11092001@gmail.com**
+- ⚡ Fun fact: I once built and published a full language learning app **solo** on both iOS & Android!
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/karthikeyan-n-b5b3a0216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthikeyan%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/21712835" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-21712835-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@karthikn-n" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@karthikn--n-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/karthikn12" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-karthikn12-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/karthikn_18" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-karthikn__18-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 State Management Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Riverpod-00B4D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stacked%20MVVM-FF6B6B?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikn-n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikn-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikn-n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthikn-n&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building beautiful, performant mobile experiences — one widget at a time."</i>
+</p>
