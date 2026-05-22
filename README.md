@@ -85,7 +85,7 @@
 ## 💼 Projects
 - <a href="https://play.google.com/store/apps/details?id=com.ualocal170">Ua Local 170</a> - Android & iOS union member managing app
 - <a href="https://play.google.com/store/apps/details?id=com.shoperies.app">Shoperies</a> - Android E-commerce app
-- <a href="https://play.google.com/store/apps/details?id=ilearnlingo.dev">iLearnLingo</a> - Android app
+- <a href="https://play.google.com/store/apps/details?id=ilearnlingo.dev">iLearnLingo</a> - Android E-learning app
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikn-n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
